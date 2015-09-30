@@ -1,13 +1,13 @@
 ---
 layout: blog
 splash: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Sample Page Uno
 ---
+
 
 ## Sweet sample page
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
