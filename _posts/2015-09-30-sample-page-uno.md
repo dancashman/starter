@@ -1,11 +1,11 @@
 ---
 layout: blog
-splash: ""
-tags: 
-  - "null"
+splash: "http://placehold.it/1600x500"
+tags: null
 published: true
 title: Sample Page Uno
 ---
+
 
 
 ## Sweet sample page
